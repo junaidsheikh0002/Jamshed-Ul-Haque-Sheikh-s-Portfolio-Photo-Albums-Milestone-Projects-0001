@@ -1,0 +1,9 @@
+{
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.9.0"
+  },
+  "dependencies": {
+    "python": "^0.0.4"
+  }
+}
